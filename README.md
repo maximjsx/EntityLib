@@ -1,12 +1,14 @@
 ## EntityLib by Tofaa2
 
 <br>
-All credits go to https://github.com/Tofaa2/EntityLib
-Here you will just find independent builds of the library
+
+All credits go to https://github.com/Tofaa2/EntityLib  
+Here you will just find independent builds of the library  
+
 <br>
 
-Currently supported **platforms** are `spigot` and `velocity`.
-You can easily use EntityLib platformless by using the api or common module
+Currently supported **platforms** are `spigot` and `velocity`.  
+You can easily use EntityLib platformless by using the api or common module  
 <br>
 
 Gradle (Kotlin DSL):
