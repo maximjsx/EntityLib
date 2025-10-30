@@ -7,7 +7,7 @@ Here you will just find independent builds of the library
 
 <br>
 
-Currently supported **platforms** are `spigot` and `velocity`.  
+Currently supported **platforms** are `spigot` and `velocity`  
 You can easily use EntityLib platformless by using the api or common module  
 <br>
 
@@ -46,7 +46,7 @@ Maven:
 <dependencies>
     <dependency>
         <groupId>com.github.maximjsx.EntityLib</groupId>
-        <artifactId><platform></artifactId> <!-- oreplace <platform> with: api, spigot, velocity -->
+        <artifactId><platform></artifactId> <!-- replace <platform> with: api, spigot, velocity -->
         <version>1.0.0</version>
     </dependency>
 </dependencies>
